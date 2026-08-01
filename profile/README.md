@@ -3,7 +3,6 @@
 > **Multi-model AI research with traceable evidence.**
 
 Currently in closed alpha, focused on the deliberation pipeline.
-[syncretos.com](https://syncretos.com)
 
 ---
 
